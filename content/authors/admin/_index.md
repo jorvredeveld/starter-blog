@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jor Vredeveld
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master's student Data Science
 
 # Organizations/Affiliations
 organizations:
